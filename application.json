@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Bugs and Issues",
+      "isDefault": false
+    },
+    {
       "id": "Bug14620",
       "isDefault": false
     },

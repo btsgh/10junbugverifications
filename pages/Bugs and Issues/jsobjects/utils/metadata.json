@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Bugs and Issues",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "imageIndex",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Bugs and Issues_utils",
+  "deleted": false,
+  "gitSyncId": "6666bbed3be56d0ac991bc5f_e0950187-ea16-4ab5-9016-ed23c876c780"
+}
