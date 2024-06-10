@@ -1,0 +1,69 @@
+{
+    "needsErrorInfo": false,
+    "mobileBottomRow": 11,
+    "widgetName": "NumberSlider1",
+    "defaultValue": 10,
+    "iconSVG": "/static/media/icon.f1c0a9f4c08502584d745ce2fb2fbb23.svg",
+    "displayName": "Number Slider",
+    "tooltipAlwaysOn": false,
+    "labelText": "Percentage",
+    "topRow": 3,
+    "searchTags": ["range"],
+    "bottomRow": 11,
+    "parentRowSpace": 10,
+    "labelWidth": 8,
+    "type": "NUMBER_SLIDER_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 34,
+    "animateLoading": true,
+    "min": 0,
+    "parentColumnSpace": 11.890625,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "shouldTruncate": false,
+    "labelPosition": "Top",
+    "isDisabled": false,
+    "key": "ouk3oszi66",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 34,
+    "thumbnailSVG": "/static/media/thumbnail.493d650547eaef7533c2c9deda058338.svg",
+    "max": 100,
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "pc7svvdn12",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+        "disableParentSelection": false,
+        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+    },
+    "isVisible": true,
+    "marks": [
+        {
+            "label": "25%",
+            "value": 25
+        },
+        {
+            "label": "50%",
+            "value": 50
+        },
+        {
+            "label": "75%",
+            "value": 75
+        }
+    ],
+    "sliderSize": "m",
+    "version": 1,
+    "shouldScroll": false,
+    "parentId": "0",
+    "tags": ["Sliders"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 3,
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
+    "step": 1,
+    "showMarksLabel": true
+}
