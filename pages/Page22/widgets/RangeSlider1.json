@@ -1,0 +1,70 @@
+{
+    "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.e4ce18dbcf9dae28943ed44865692370.svg",
+    "defaultStartValue": 10,
+    "tooltipAlwaysOn": false,
+    "labelText": "Percentage",
+    "topRow": 6,
+    "labelWidth": 8,
+    "type": "RANGE_SLIDER_WIDGET",
+    "animateLoading": true,
+    "leftColumn": 4,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "isDisabled": false,
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+        "disableParentSelection": false,
+        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+    },
+    "isVisible": true,
+    "version": 1,
+    "tags": ["Sliders"],
+    "isLoading": false,
+    "minRange": 5,
+    "needsErrorInfo": false,
+    "mobileBottomRow": 14,
+    "widgetName": "RangeSlider1",
+    "displayName": "Range Slider",
+    "bottomRow": 14,
+    "parentRowSpace": 10,
+    "hideCard": false,
+    "mobileRightColumn": 44,
+    "min": 0,
+    "parentColumnSpace": 11.890625,
+    "labelPosition": "Top",
+    "shouldTruncate": false,
+    "defaultEndValue": 100,
+    "key": "67516jcst5",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 44,
+    "thumbnailSVG": "https://release-appcdn.appsmith.com/static/media/thumbnail.dba83a44257e147ae015c36470b046a4.svg",
+    "max": 100,
+    "widgetId": "mgnnx3letd",
+    "marks": [
+        {
+            "label": "25%",
+            "value": 25
+        },
+        {
+            "label": "50%",
+            "value": 50
+        },
+        {
+            "label": "75%",
+            "value": 75
+        }
+    ],
+    "sliderSize": "m",
+    "shouldScroll": false,
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 6,
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 4,
+    "step": 1,
+    "showMarksLabel": true
+}
